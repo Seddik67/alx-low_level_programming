@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *Main -Entry Level
+ *main -Entry Level
  *
  *Description: A programme that print a message use printf function
  *
- *Return: (0) success
+ *Return: Always 0 (success)
  */
 
 int main(void)
