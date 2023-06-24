@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-int maun(void)
+int main(void)
 {
 	int num;
 
@@ -26,3 +26,5 @@ int maun(void)
 		else
 			printf("\n");
 	}
+	return (0);
+}
