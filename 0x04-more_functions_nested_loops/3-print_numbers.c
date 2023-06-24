@@ -8,6 +8,8 @@
 
 void print_numbers(void)
 {
+	int num = 0;
+
 	do {
 		_putchar(num + 48);
 		num++;
