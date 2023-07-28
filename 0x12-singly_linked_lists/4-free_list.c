@@ -1,4 +1,4 @@
-#include "lisits.h"
+#include "lists.h"
 
 /**
  * free_list - frees all node of a list
